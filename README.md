@@ -47,7 +47,7 @@ Collection of slides from PyGotham 2017 Speakers
 **Those Who Care, Teach! By Kenneth Love**
 - [https://speakerdeck.com/kennethlove/those-who-care-teach](https://speakerdeck.com/kennethlove/those-who-care-teach)
 
-**Halfway Between Heaven and Hell: securing grassroots groups by SouthLeigh Honeywell**
+**Halfway Between Heaven and Hell: securing grassroots groups by Leigh Honeywell**
 - [https://docs.google.com/presentation/d/1kIhKyTu73UGkhYV4Y-JaMw5bBcHfxKoVz_EUj_lHdnA/edit#slide=id.p](https://docs.google.com/presentation/d/1kIhKyTu73UGkhYV4Y-JaMw5bBcHfxKoVz_EUj_lHdnA/edit#slide=id.p)
 
 
