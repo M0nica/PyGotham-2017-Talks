@@ -1,6 +1,11 @@
 # PyGotham-2017-Talks
 
 Collection of slides from PyGotham 2017 Speakers
+**Building a “Pun Generator” in Python by Max Schwartz**
+- [https://github.com/maxwell-schwartz/PUNchlineGenerator](https://github.com/maxwell-schwartz/PUNchlineGenerator)
+
+**Everything You Ever Wanted to Know About Web Authentication in Python by Randall Degges**
+- [https://speakerdeck.com/rdegges/almost-everything-you-ever-wanted-to-know-about-web-authentication-in-python](https://speakerdeck.com/rdegges/almost-everything-you-ever-wanted-to-know-about-web-authentication-in-python)
 
 **Creating a Bittorrent Client using Asyncio by NorthAhmed Abdalla**
 - [http://slides.com/simplyahmazing/creating-a-bittorrent-client-with-asyncio-2#/](http://slides.com/simplyahmazing/creating-a-bittorrent-client-with-asyncio-2#/)
@@ -32,12 +37,13 @@ Collection of slides from PyGotham 2017 Speakers
 **When to avoid the subway: using python to make your commute slightly less terrible
 PennTop NorthJosh Laurito**
 - [http://blog.joshlaurito.com/blog/2017/10/07/when-to-avoid-the-subway/](http://blog.joshlaurito.com/blog/2017/10/07/when-to-avoid-the-subway/)
+- [https://github.com/jlaurito/mta-incident-research](https://github.com/jlaurito/mta-incident-research)
 
 **FIXING THE TECH INTERVIEW by James Bennett, Nicole Zuckerman**
 
 - [http://media.b-list.org/presentations/2017/pygotham/interviewing.pdf](http://media.b-list.org/presentations/2017/pygotham/interviewing.pdf)
 
-**Those Who Care, Teach! By Kenneth Love **
+**Those Who Care, Teach! By Kenneth Love**
 - [https://speakerdeck.com/kennethlove/those-who-care-teach](https://speakerdeck.com/kennethlove/those-who-care-teach)
 
 **Halfway Between Heaven and Hell: securing grassroots groups by SouthLeigh Honeywell**
