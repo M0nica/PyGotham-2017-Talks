@@ -53,5 +53,8 @@ Collection of slides from PyGotham 2017 Speakers
 **Music Synthesis in Python by Dror Ayalon**
 - [https://github.com/dodiku/music-synthesis-with-python](https://github.com/dodiku/music-synthesis-with-python)
 
+**The Other Async (Threads + Async = :heart:) by David Beazley**
+- [https://www.youtube.com/watch?v=x1ndXuw7S0s](https://www.youtube.com/watch?v=x1ndXuw7S0s)
+
 **Attendee Notes**
 - [https://github.com/easy-as-python/pygotham2017](https://github.com/easy-as-python/pygotham2017)
