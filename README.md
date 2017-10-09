@@ -9,7 +9,7 @@ Collection of slides from PyGotham 2017 Speakers
 **Everything You Ever Wanted to Know About Web Authentication in Python by Randall Degges**
 - [https://speakerdeck.com/rdegges/almost-everything-you-ever-wanted-to-know-about-web-authentication-in-python](https://speakerdeck.com/rdegges/almost-everything-you-ever-wanted-to-know-about-web-authentication-in-python)
 
-**Creating a Bittorrent Client using Asyncio by NorthAhmed Abdalla**
+**Creating a Bittorrent Client using Asyncio by Ahmed Abdalla**
 - [http://slides.com/simplyahmazing/creating-a-bittorrent-client-with-asyncio-2#/](http://slides.com/simplyahmazing/creating-a-bittorrent-client-with-asyncio-2#/)
 
 **Solving a crossword puzzle the hard way by Alec Barrett**
@@ -21,10 +21,10 @@ Collection of slides from PyGotham 2017 Speakers
 **Natural Language Processing from Scratch by Noemi Derzsy**
 - [https://www.slideshare.net/NoemiDerzsy/pygotham-ny-2017-natural-language-processing-from-scratch](https://www.slideshare.net/NoemiDerzsy/pygotham-ny-2017-natural-language-processing-from-scratch)
 
-**Try-Monads With Big Data Using PySpark by NorthJordan Yaker**
+**Try-Monads With Big Data Using PySpark by Jordan Yaker**
 - [https://www.slideshare.net/jordanyaker/trymonads-with-big-data-using-pyspark](https://www.slideshare.net/jordanyaker/trymonads-with-big-data-using-pyspark)
 
-**From Monolithic to Serverless with AWS Step Functions by SouthScott Triglia**
+**From Monolithic to Serverless with AWS Step Functions by Scott Triglia**
 -[https://www.slideshare.net/ScottTriglia/from-monolithic-to-serverless-with-amazon-step-functions](https://www.slideshare.net/ScottTriglia/from-monolithic-to-serverless-with-amazon-step-functions)
 
 **Fixing web data in production: best practices for bad situations by Aaron Knigh**
@@ -36,8 +36,7 @@ Collection of slides from PyGotham 2017 Speakers
 **Tracing the flow of knowledge using Pyspark by Jessica Cox and Corey Harper**
 - [https://data.mendeley.com/datasets/8kyckg3dh5/1](https://data.mendeley.com/datasets/8kyckg3dh5/1)
 
-**When to avoid the subway: using python to make your commute slightly less terrible
-PennTop NorthJosh Laurito**
+**When to avoid the subway: using python to make your commute slightly less terrible by Josh Laurito**
 - [http://blog.joshlaurito.com/blog/2017/10/07/when-to-avoid-the-subway/](http://blog.joshlaurito.com/blog/2017/10/07/when-to-avoid-the-subway/)
 - [https://github.com/jlaurito/mta-incident-research](https://github.com/jlaurito/mta-incident-research)
 
