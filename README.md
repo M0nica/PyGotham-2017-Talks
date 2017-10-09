@@ -25,7 +25,7 @@ Collection of slides from PyGotham 2017 Speakers
 - [https://www.slideshare.net/jordanyaker/trymonads-with-big-data-using-pyspark](https://www.slideshare.net/jordanyaker/trymonads-with-big-data-using-pyspark)
 
 **From Monolithic to Serverless with AWS Step Functions by Scott Triglia**
--[https://www.slideshare.net/ScottTriglia/from-monolithic-to-serverless-with-amazon-step-functions](https://www.slideshare.net/ScottTriglia/from-monolithic-to-serverless-with-amazon-step-functions)
+- [https://www.slideshare.net/ScottTriglia/from-monolithic-to-serverless-with-amazon-step-functions](https://www.slideshare.net/ScottTriglia/from-monolithic-to-serverless-with-amazon-step-functions)
 
 **Fixing web data in production: best practices for bad situations by Aaron Knigh**
 - [https://www.slideshare.net/AaronKnight14/fixing-web-data-in-production/1](https://www.slideshare.net/AaronKnight14/fixing-web-data-in-production/1)
@@ -50,6 +50,11 @@ Collection of slides from PyGotham 2017 Speakers
 **Halfway Between Heaven and Hell: securing grassroots groups by Leigh Honeywell**
 - [https://docs.google.com/presentation/d/1kIhKyTu73UGkhYV4Y-JaMw5bBcHfxKoVz_EUj_lHdnA/edit#slide=id.p](https://docs.google.com/presentation/d/1kIhKyTu73UGkhYV4Y-JaMw5bBcHfxKoVz_EUj_lHdnA/edit#slide=id.p)
 
+**Music Synthesis in Python by Dror Ayalon**
+- [https://github.com/dodiku/music-synthesis-with-python](https://github.com/dodiku/music-synthesis-with-python)
+
+**The Other Async (Threads + Async = :heart:) by David Beazley**
+- [https://www.youtube.com/watch?v=x1ndXuw7S0s](https://www.youtube.com/watch?v=x1ndXuw7S0s)
 
 **Attendee Notes**
 - [https://github.com/easy-as-python/pygotham2017](https://github.com/easy-as-python/pygotham2017)
