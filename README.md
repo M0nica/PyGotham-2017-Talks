@@ -1,6 +1,8 @@
 # PyGotham-2017-Talks
 
 Collection of slides from PyGotham 2017 Speakers
+
+
 **Building a “Pun Generator” in Python by Max Schwartz**
 - [https://github.com/maxwell-schwartz/PUNchlineGenerator](https://github.com/maxwell-schwartz/PUNchlineGenerator)
 
@@ -48,5 +50,7 @@ PennTop NorthJosh Laurito**
 
 **Halfway Between Heaven and Hell: securing grassroots groups by SouthLeigh Honeywell**
 - [https://docs.google.com/presentation/d/1kIhKyTu73UGkhYV4Y-JaMw5bBcHfxKoVz_EUj_lHdnA/edit#slide=id.p](https://docs.google.com/presentation/d/1kIhKyTu73UGkhYV4Y-JaMw5bBcHfxKoVz_EUj_lHdnA/edit#slide=id.p)
+
+
 **Attendee Notes**
 - [https://github.com/easy-as-python/pygotham2017](https://github.com/easy-as-python/pygotham2017)
